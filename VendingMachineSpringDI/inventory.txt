@@ -1,0 +1,7 @@
+KitKat::1.80::0
+Snickers::2.20::3
+Grandmama::1.00::15
+Ruffles::1.90::6
+Haribo::1.50::7
+Coke::2.10::0
+Nature Valley::2.40::4
